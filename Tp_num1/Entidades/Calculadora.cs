@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Calculadora
+    public static class Calculadora
     {
         private static string ValidarOperador(string numero)
         {
@@ -16,7 +16,7 @@ namespace Entidades
             }
             return numero;
         }
-        public double Operador(Numero n1, Numero n2, string operador)
+        public static double Operador(Numero n1, Numero n2, string operador)
         {
 
             string dato = operador;

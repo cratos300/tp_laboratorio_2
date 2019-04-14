@@ -18,6 +18,12 @@ namespace MiCalculadora
             InitializeComponent();
         }
 
+        public static double operar(Numero n1, Numero n2, string operador)
+        {
+            double dato;
+            dato = Calculadora.Operador(n1, n2, operador);
+            return dato;
+        }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
            
@@ -58,8 +64,7 @@ namespace MiCalculadora
             double dato;
              Numero PrimerNumero = new Numero(this.textBox2.Text);
             Numero SegundoNumero = new Numero(this.textBox3.Text);
-            Calculadora unaCalculadora = new Calculadora();
-            dato = unaCalculadora.Operador(PrimerNumero, SegundoNumero, this.comboBox1.Text);
+            dato = FormCalculadora.operar(PrimerNumero, SegundoNumero, this.comboBox1.Text);
             label1.Text = dato.ToString();
 
         }
