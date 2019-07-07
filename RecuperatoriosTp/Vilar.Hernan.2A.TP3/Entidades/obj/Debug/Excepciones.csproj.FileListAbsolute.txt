@@ -1,0 +1,12 @@
+D:\Vilar.Hernan.2A.TP3\Entidades\bin\Debug\Entidades.dll
+D:\Vilar.Hernan.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+D:\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Entidades.dll
+D:\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Entidades.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\bin\Debug\Entidades.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Entidades.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Entidades\obj\Debug\Entidades.pdb

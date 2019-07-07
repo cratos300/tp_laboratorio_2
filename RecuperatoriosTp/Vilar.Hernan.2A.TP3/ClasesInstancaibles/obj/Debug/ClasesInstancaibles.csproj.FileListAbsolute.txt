@@ -1,0 +1,11 @@
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\obj\Debug\ClasesInstancaibles.csproj.CoreCompileInputs.cache
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\ClasesInstancaibles.dll
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\ClasesInstancaibles.pdb
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\Archivos.dll
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\Entidades.dll
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\Archivos.pdb
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\bin\Debug\Entidades.pdb
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\obj\Debug\ClasesInstancaibles.csprojAssemblyReference.cache
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\obj\Debug\ClasesInstancaibles.csproj.CopyComplete
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\obj\Debug\ClasesInstancaibles.dll
+D:\Vilar.Hernan.2A.TP3\ClasesInstancaibles\obj\Debug\ClasesInstancaibles.pdb

@@ -1,0 +1,92 @@
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.pdb
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.pdb
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CopyComplete
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.dll
+C:\Users\herna\Desktop\CarpetaRecuperatorioTp3\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csprojAssemblyReference.cache
+D:\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CoreCompileInputs.cache
+D:\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.pdb
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CopyComplete
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.pdb
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesAbstractas.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.pdb
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesAbstractas.pdb
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.pdb
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.pdb
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csprojAssemblyReference.cache
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CoreCompileInputs.cache
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CopyComplete
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.dll
+C:\Users\herna\Desktop\Nueva carpeta (17)\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Unitario.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesAbstractas.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Archivos.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesAbstractas.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\ClasesInstancaibles.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Entidades.pdb
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csprojAssemblyReference.cache
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CoreCompileInputs.cache
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.csproj.CopyComplete
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.dll
+E:\TrabajoPractico4\S\Vilar.Hernan.2A.TP3\Unitario\obj\Debug\Unitario.pdb
